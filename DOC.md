@@ -2,6 +2,13 @@
 
 Hi! I'm Ahmed Elsaadany and this is my Pokedex app.
 
+## Notes
+
+- bloc is used as state management
+- dio is used of api requests
+- unit testing and integration testing are implemented
+
+
 ## Used packages
 
 - google_fonts
