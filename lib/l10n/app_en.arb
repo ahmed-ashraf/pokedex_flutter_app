@@ -1,0 +1,22 @@
+{
+  "app_name": "Pokedex",
+  "all_pokemons": "All Pokemons",
+  "favourites": "Favourites",
+  "remove_favourites": "Remove from favourites",
+  "add_favourite": "Mark as favourite",
+  "height": "Height",
+  "weight": "Weight",
+  "bmi": "BMI",
+  "base_stats": "Base stats",
+  "hp": "Hp",
+  "attack": "Attack",
+  "defense": "Defense",
+  "special_attack": "Special Attack",
+  "special_defense": "Special Defense",
+  "speed": "Speed",
+  "avg_power": "Avg. Power",
+  "pokemon": "Pokemon",
+  "no_internet": "No internet connection",
+  "no_favourites": "No favourites",
+  "error": "An error occurred try again later"
+}
