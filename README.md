@@ -9,6 +9,9 @@ This app uses https://pokeapi.co
 - unit testing and integration testing are implemented
 
 
+https://user-images.githubusercontent.com/19362719/205480599-1b8a9c08-beab-4f3d-8d60-3b7680ef0870.mp4
+
+
 ## Used packages
 
 - google_fonts
