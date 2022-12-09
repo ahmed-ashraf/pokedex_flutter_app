@@ -8,10 +8,6 @@ Map<String, String> headers = {
 class Api {
 
   static const String apiUrl = 'https://pokeapi.co/api/v2/';
-  static const String webUrl = 'https://nota-app-test.azurewebsites.net/';
-
-  static const String flatPreview = '${webUrl}FlatPreview';
-
   static const String getPokemon = '${apiUrl}pokemon/';
 
   static String getImageUrl(String id) {
